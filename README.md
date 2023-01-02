@@ -3,6 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nazanin-Abbasi/ChatServer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##Description
+## Description
 
-Chat Server is a socket programming project I did for my Internet Engineering course at Alzahra University. In this project I leanred how to use socket programming and simulate a chat server.
+Chat Server is a socket programming project I did for my Internet Engineering course at Alzahra University. 
+
+In this project I leanred how to use socket programming and simulate a chat server.
