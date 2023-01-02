@@ -7,4 +7,4 @@
 
 Chat Server is a socket programming project I did for my Internet Engineering course at Alzahra University. 
 
-In this project I leanred how to use socket programming and simulate a chat server.
+In this project I leanred how to use socket programming and simulate a chat server where two clients can chat with each other.
